@@ -2,14 +2,27 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-    
- - title: "Educations"
+
+#  - title: "News"
+#    url: "/#-news"
+
+#  - title: "Honors and Awards"
+#    url: "/#-honors-and-awards"
+
+  - title: "Educations"
     url: "/#-educations"
-    
+
+#  - title: "Invited Talks"
+#    url: "/#-invited-talks"
+
+  - title: "Experiences"
+    url: "/#-experiences"
+
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Software"
+    url: "/#-software"
 
- 
+  - title: "Miscellaneous"
+    url: "/#-miscellaneous"
