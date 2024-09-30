@@ -32,12 +32,12 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 
 # 📝 Experience 
-- *2024.06 - now*   &nbsp;&nbsp;   Research Assistant, Responsible Urban Intelligence(RUI) Lab, Hong Kong University of Science and Technology(GZ).
+- *2024.06 - now*   &nbsp;&nbsp;   Research Assistant, Hong Kong University of Science and Technology(GZ).
 
-Advisor: Rui Cao
-- *2023.05 - 2024.05* &nbsp;&nbsp; Research Assistant, GISense Lab, University of Texas at Austin.
+&nbsp;&nbsp; Responsible Urban Intelligence(RUI) Lab, Advisor: Rui Cao
+- *2023.05 - 2024.05* &nbsp;&nbsp; Research Assistant, University of Texas at Austin.
 
-Advisor: Yuhao Kang
+&nbsp;&nbsp;  GISense Lab, Advisor: Yuhao Kang
 - *2022.02 - now*   &nbsp;&nbsp;   Committee Member, GISphere non-profit organization
 - *2021.06 - 2021.09* &nbsp;&nbsp; Intern, Shaanxi TIRAIN Science & Technology
 
@@ -45,13 +45,13 @@ Advisor: Yuhao Kang
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
-    <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 150px; height: auto;"/>
+    <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 300px; height: auto;"/>
     <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
     <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
-    <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 150px; height: auto;"/>
+    <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 300px; height: auto;"/>
     <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
     <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
   </div>
@@ -59,22 +59,22 @@ Advisor: Yuhao Kang
 </div>
 
 
-<div style="display: flex; align-items: center;margin-bottom: 20px;">
-  <img src="images/sst.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
-  <div style="display: flex; flex-direction: column;">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
-    <p style="font-size: 14px; margin-top: 10px;">A simplified Swin Transformer (SST) model for taxi destination presiction</p>
-    
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
+    <img src="images/sst.png" alt="sst" style="width: 300px; height: auto;"/>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
+    <p style="font-size: 14px; text-align: center;">A simplified Swin Transformer (SST) model for taxi destination prediction</p>
   </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
+    <img src="images/taxi-demands.png" alt="taxi demand" style="width: 300px; height: auto;"/>
+    <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Taxi Demand Distribution Platform</a>
+    <p style="font-size: 14px; text-align: center;">A visualization platform showcasing New York taxi demand</p>
+  </div>
+
 </div>
 
-<div style="display: flex; align-items: center;margin-bottom: 20px;">
-  <img src="images/taxi-demands.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
-  <div style="display: flex; flex-direction: column;">
-    <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none;">Taxi Demand Distribution Platform</a>
-    <p style="font-size: 14px; margin-top: 10px;">A visualization platform showcasing New York taxi demand</p>
-  </div>
-</div>
 
 <div style="display: flex; align-items: center;margin-bottom: 20px;">
   <img src="images/NJ.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
