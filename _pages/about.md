@@ -30,8 +30,6 @@ Hello, I am currently a research assistant at the Hong Kong University of Scienc
 [**2.**]([Y. Jia, Z. Wu, S. Yi, Y. Sun, "GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms", arXiv preprint arXiv:2404.13885](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC) 
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- 
 # 📝 Experience 
 - *2024.06 - now*      Research Assistant, RUI Lab, Hong Kong University of Science and Technology(GZ).
 - *2023.05 - 2024.05*  Research Assistant, GISense Lab, University of Texas at Austin.
@@ -44,8 +42,6 @@ Hello, I am currently a research assistant at the Hong Kong University of Scienc
 - *2021.02*  2nd Place, Mapping Design Competition, Northwest A&F University
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Presentations
+- *2024.04*, American Association of Geographers Annual Meeting，Honolulu, Hawai’i
 
-# 💻 Internships
