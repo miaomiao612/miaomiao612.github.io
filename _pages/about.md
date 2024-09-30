@@ -15,9 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'>
 
 Hello, I am currently a research assistant at the Hong Kong University of Science and Technology(GZ). My research interest is to combine AI and spatial data to uncover hidden urban patterns and dynamics.
+</span>
 
 # 📖 Educations
 - *2023.05 - 2022.08* MS, Urban Spatial Analytics, University of Pennsylvania
@@ -32,9 +33,12 @@ Hello, I am currently a research assistant at the Hong Kong University of Scienc
 
 # 📝 Experience 
 - *2024.06 - now*      Research Assistant, RUI Lab, Hong Kong University of Science and Technology(GZ).
+  Advisor: Rui Cao
 - *2023.05 - 2024.05*  Research Assistant, GISense Lab, University of Texas at Austin.
+  Advisor: Yuhao Kang
 - *2022.02 - now*      Committee Member, GISphere non-profit organization
-  
+
+# 💻 Projects 
 
 # 🎖 Honors and Awards
 - *2022.03*  Scholarship of Pennsylvania
