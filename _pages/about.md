@@ -42,27 +42,29 @@ Advisor: Yuhao Kang
 - *2021.06 - 2021.09* &nbsp;&nbsp; Intern, Shaanxi TIRAIN Science & Technology
 
 # 💻 Projects 
-<div style="display: flex; align-items: center;margin-bottom: 20px;">
-  <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 35%; height: 35%; margin-right: 25px;"/>
-  <div style="display: flex; flex-direction: column;">
-    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
-    <p style="font-size: 14px; margin-top: 10px;">A novel transformer model based on a geospatial attention mechanism</p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
+    <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 150px; height: auto;"/>
+    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
+    <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
   </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
+    <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 150px; height: auto;"/>
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
+    <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
+  </div>
+
 </div>
 
-<div style="display: flex; align-items: center;margin-bottom: 20px;">
-  <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 35%; height: 35%; margin-right: 25px;"/>
-  <div style="display: flex; flex-direction: column;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none;">GeoTransformer:Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
-    <p style="font-size: 14px; margin-top: 10px;">A novel transformer model based on a geospatial attention mechanism</p>
-  </div>
-</div>
 
 <div style="display: flex; align-items: center;margin-bottom: 20px;">
   <img src="images/sst.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
   <div style="display: flex; flex-direction: column;">
     <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
     <p style="font-size: 14px; margin-top: 10px;">A simplified Swin Transformer (SST) model for taxi destination presiction</p>
+    
   </div>
 </div>
 
