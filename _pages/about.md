@@ -18,7 +18,7 @@ redirect_from:
 
 # 😺 About me
   
-I am now a research assistant at the Hong Kong University of Science and Technology (GZ). My research focuses on combining AI and spatial data to uncover hidden urban patterns and dynamics. More specifically, I'm interested in spatiotemporal prediction of human mobility, super-resolution reconstruction of remote sensing imagery, and the explainability of geographic artificial intelligence.  
+I am now a research assistant at the Hong Kong University of Science and Technology (GZ), working with Prof. Rui Cao. My research focuses on combining AI and spatial data to uncover hidden urban patterns and dynamics. More specifically, I'm interested in spatiotemporal prediction of human mobility, super-resolution reconstruction of remote sensing imagery, and the explainability of geographic artificial intelligence.  
 
 # 📖 Educations
 - *2023.05 - 2022.08* MS, Urban Spatial Analytics, University of Pennsylvania
@@ -43,8 +43,10 @@ Advisor: Yuhao Kang
 
 # 💻 Projects 
 <div style="display: flex; align-items: center;">
-  <img src="images/plot11.001.jpeg" alt="Quantifying_the_Potential_of_Underwater_Robots_in_Cyanobacteria_Removal" style="width: 50%; height: auto;"/>
-  <p style="margin-left: 20px;">This is the text that will appear on the right side of the image. You can describe your work, explain the image, or add any other content here.</p>
+  <img src="images/plot11.001.jpeg" alt="Quantifying_the_Potential_of_Underwater_Robots_in_Cyanobacteria_Removal" style="width: 30%; height: 30%;"/>
+  <a href="[your_link_url](https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link)" style="font-size: 24px; margin-left: 20px; text-decoration: none;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
+  <p style="margin-left: 20px; font-size: 16px;">This project explores the use of underwater robots for the removal of cyanobacteria, offering insights into its potential impact on water ecosystems.</p>
+
 </div>
 
 
