@@ -47,9 +47,9 @@ I am now a research assistant at the Hong Kong University of Science and Technol
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 300px; height: auto;"/>
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 60px;">GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
-    <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
+    <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 300px; height: auto;margin-top: 20px"/>
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 30px;">GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
+    <p style="font-size: 14px; text-align: center; margin-bottom: 40px;">A novel transformer model based on a geospatial attention mechanism</p>
   </div>
 
 </div>
@@ -66,7 +66,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/taxi-demands.png" alt="taxi demand" style="width: 300px; height: auto;"/>
     <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Taxi Demand Distribution Platform</a>
-    <p style="font-size: 14px; text-align: center;">A visualization platform showcasing New York taxi demand</p>
+    <p style="font-size: 14px; text-align: center; margin-bottom: 40px;">A visualization platform showcasing New York taxi demand</p>
   </div>
 
 </div>
@@ -84,7 +84,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
   <div style="display: flex; align-items: center;margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/maps.jpg" alt="map" style="width: 35%; height: 35%; margin-right: 25px;"/>
     <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none;">Map Gallery</a>
-    <p style="font-size: 14px; text-align: center;">Map is a kind of art, here collects the beautiful maps I‘ve created over these years</p>
+    <p style="font-size: 14px; text-align: center; margin-bottom: 40px;">Map is a kind of art, here collects the beautiful maps I‘ve created over these years</p>
   </div>
 </div>
 
