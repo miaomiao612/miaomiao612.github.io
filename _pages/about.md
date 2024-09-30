@@ -58,13 +58,13 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/sst.png" alt="sst" style="width: 300px; height: auto;"/>
+    <img src="images/sst.png" alt="sst" style="width: 350px; height: auto;"/>
     <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 13px;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
     <p style="font-size: 14px; text-align: center;">A simplified Swin Transformer (SST) model for taxi destination prediction</p>
 </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/taxi-demands.png" alt="taxi demand" style="width: 400px; height: auto;"/>
+    <img src="images/taxi-demands.png" alt="taxi demand" style="width: 370px; height: auto;"/>
     <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 30px;">Taxi Demand Distribution Platform</a>
     <p style="font-size: 14px; text-align: center; margin-bottom: 30px;">A visualization platform showcasing New York taxi demand</p>
   </div>
@@ -76,13 +76,13 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/NJ.png" alt="sst" style="width: 300px; height: auto;"/>
+    <img src="images/NJ.png" alt="sst" style="width: 400px; height: auto;"/>
     <a href="https://miaomiao612.github.io/Train-Delay-Prediction/" style="font-size: 17px; text-decoration: none;">Train delays prediction of New Jersey Transit</a>
     <p style="font-size: 14px; text-align: center;">A visualization platform showcasing New York taxi demand</p>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/maps.jpg" alt="map" style="width: 420px; height: auto;"/>
+    <img src="images/maps.jpg" alt="map" style="width: 300px; height: auto;"/>
     <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 30px;">Map Gallery</a>
     <p style="font-size: 14px; text-align: center; margin-bottom: 40px;">Map is a kind of art, here collects the beautiful maps I‘ve created over these years</p>
   </div>
