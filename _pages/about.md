@@ -43,10 +43,20 @@ Advisor: Yuhao Kang
 
 # 💻 Projects 
 <div style="display: flex; align-items: center;">
-  <img src="images/plot11.001.jpeg" alt="Quantifying_the_Potential_of_Underwater_Robots_in_Cyanobacteria_Removal" style="width: 30%; height: 30%;"/>
-  <a href="[your_link_url](https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link)" style="font-size: 24px; margin-left: 20px; text-decoration: none;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
-  <p style="margin-left: 20px; font-size: 16px;">This project explores the use of underwater robots for the removal of cyanobacteria, offering insights into its potential impact on water ecosystems.</p>
+  <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 35%; height: 35%; margin-right: 16px;"/>
+  <div style="display: flex; flex-direction: column;">
+    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 20px; text-decoration: none;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
+    <p style="font-size: 14px; margin-top: 8px;">This project explores the use of underwater robots for the removal of cyanobacteria, offering insights into its potential impact on water ecosystems.</p>
+  </div>
+</div>
 
+
+<div style="display: flex; align-items: center;">
+  <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 30%; height: 30%;"/>
+  <div style="display: flex; flex-direction: column;">
+  <a href="[your_link_url](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC)" style="font-size: 24px; margin-left: 20px; text-decoration: none;">GeoTransformer:Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
+  <p style="margin-left: 20px; font-size: 16px;">A novel transformer model based on a geospatial attention mechanism</p>
+ </div>
 </div>
 
 
