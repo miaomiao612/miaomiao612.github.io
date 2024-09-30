@@ -40,13 +40,13 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 # 💻 Projects 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 300px; height: auto;"/>
     <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
     <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 300px; height: auto;"/>
     <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 60px;">GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
     <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
@@ -73,19 +73,18 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 
 
-<div style="display: flex; align-items: center;margin-bottom: 20px;">
-  <img src="images/NJ.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
-  <div style="display: flex; flex-direction: column;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
+    <img src="images/NJ.png" alt="sst" style="width: 300px; height: auto;"/>
     <a href="https://miaomiao612.github.io/Train-Delay-Prediction/" style="font-size: 17px; text-decoration: none;">Train delays prediction of New Jersey Transit</a>
-    <p style="font-size: 14px; margin-top: 10px;">A visualization platform showcasing New York taxi demand</p>
+    <p style="font-size: 14px; text-align: center;">A visualization platform showcasing New York taxi demand</p>
   </div>
-</div>
-
-<div style="display: flex; align-items: center;margin-bottom: 20px;">
-  <img src="images/maps.jpg" alt="map" style="width: 35%; height: 35%; margin-right: 25px;"/>
-  <div style="display: flex; flex-direction: column;">
+  
+  <div style="display: flex; align-items: center;margin-right: 10px; max-width: 50%; width: 100%;">
+    <img src="images/maps.jpg" alt="map" style="width: 35%; height: 35%; margin-right: 25px;"/>
     <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none;">Map Gallery</a>
-    <p style="font-size: 14px; margin-top: 10px;">Map is a kind of art, here collects the beautiful maps I‘ve created over these years</p>
+    <p style="font-size: 14px; text-align: center;">Map is a kind of art, here collects the beautiful maps I‘ve created over these years</p>
   </div>
 </div>
 
