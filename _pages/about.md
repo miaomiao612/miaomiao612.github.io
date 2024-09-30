@@ -80,13 +80,12 @@ I am now a research assistant at the Hong Kong University of Science and Technol
     <a href="https://miaomiao612.github.io/Train-Delay-Prediction/" style="font-size: 17px; text-decoration: none;">Train delays prediction of New Jersey Transit</a>
     <p style="font-size: 14px; text-align: center;">A visualization platform showcasing New York taxi demand</p>
   </div>
-  
-  <div style="display: flex; align-items: center;margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/maps.jpg" alt="map" style="width: 35%; height: 35%; margin-right: 25px;"/>
-    <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none;">Map Gallery</a>
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
+    <img src="images/maps.jpg" alt="map" style="width: 300px; height: auto;"/>
+    <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Map Gallery</a>
     <p style="font-size: 14px; text-align: center; margin-bottom: 40px;">Map is a kind of art, here collects the beautiful maps I‘ve created over these years</p>
   </div>
-</div>
 
 
 
