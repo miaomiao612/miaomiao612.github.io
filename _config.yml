@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : #"Lorem ipsum"
+title                    : #"Yifei Sun"
 description              : #"Research assistant in HKUST(GZ). Focusing on  "
 repository               : "miaomiao612/miaomiao612.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ author:
   name             : "Yifei Sun"
   avatar           : "images/profile.jpg"
   bio              : "Research Assistant at HKUST(GZ)"
-  #location         : "Beijing, China"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=J49kATMAAAAJ&hl=zh-CN"
