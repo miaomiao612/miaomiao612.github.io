@@ -15,10 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'>
 
-Hello, I am currently a research assistant at the Hong Kong University of Science and Technology(GZ). My research interest is to combine AI and spatial data to uncover hidden urban patterns and dynamics.
-</span>
+# 😺 About me
+  
+I am now a research assistant at the Hong Kong University of Science and Technology (GZ). My research focuses on combining AI and spatial data to uncover hidden urban patterns and dynamics. More specifically, I'm interested in spatiotemporal prediction of human mobility, super-resolution reconstruction of remote sensing imagery, and the explainability of geographic artificial intelligence.  
 
 # 📖 Educations
 - *2023.05 - 2022.08* MS, Urban Spatial Analytics, University of Pennsylvania
@@ -32,14 +32,21 @@ Hello, I am currently a research assistant at the Hong Kong University of Scienc
 
 
 # 📝 Experience 
-- *2024.06 - now*      Research Assistant, RUI Lab, Hong Kong University of Science and Technology(GZ).
-  - Advisor: Rui Cao
+- *2024.06 - now*      Research Assistant, Responsible Urban Intelligence(RUI) Lab, Hong Kong University of Science and Technology(GZ).
+
+Advisor: Rui Cao
 - *2023.05 - 2024.05*  Research Assistant, GISense Lab, University of Texas at Austin.
-  - Advisor: Yuhao Kang
+
+Advisor: Yuhao Kang
 - *2022.02 - now*      Committee Member, GISphere non-profit organization
 - *2021.06 - 2021.09*  Intern, Shaanxi TIRAIN Science & Technology
 
 # 💻 Projects 
+<div style="display: flex; align-items: center;">
+  <img src="images/plot11.001.jpeg" alt="Quantifying_the_Potential_of_Underwater_Robots_in_Cyanobacteria_Removal" style="width: 50%; height: auto;"/>
+  <p style="margin-left: 20px;">This is the text that will appear on the right side of the image. You can describe your work, explain the image, or add any other content here.</p>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2022.03*  Scholarship of Pennsylvania
