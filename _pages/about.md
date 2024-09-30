@@ -33,10 +33,8 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 # 📝 Experience 
 - *2024.06 - now*   &nbsp;&nbsp;   Research Assistant, Hong Kong University of Science and Technology(GZ).
-
 &nbsp;&nbsp; Responsible Urban Intelligence(RUI) Lab, Advisor: Rui Cao
 - *2023.05 - 2024.05* &nbsp;&nbsp; Research Assistant, University of Texas at Austin.
-
 &nbsp;&nbsp;  GISense Lab, Advisor: Yuhao Kang
 - *2022.02 - now*   &nbsp;&nbsp;   Committee Member, GISphere non-profit organization
 - *2021.06 - 2021.09* &nbsp;&nbsp; Intern, Shaanxi TIRAIN Science & Technology
@@ -52,12 +50,12 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 25px;">
     <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 300px; height: auto;"/>
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 40px;">GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
     <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
   </div>
 
 </div>
-
+{%---%}
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
@@ -75,6 +73,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 </div>
 
+{%---%}
 
 <div style="display: flex; align-items: center;margin-bottom: 20px;">
   <img src="images/NJ.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
