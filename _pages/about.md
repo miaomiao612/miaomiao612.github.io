@@ -43,21 +43,54 @@ Advisor: Yuhao Kang
 
 # 💻 Projects 
 <div style="display: flex; align-items: center;">
-  <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 35%; height: 35%; margin-right: 16px;"/>
+  <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 35%; height: 35%; margin-right: 25px;"/>
   <div style="display: flex; flex-direction: column;">
-    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 20px; text-decoration: none;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
+    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
     <p style="font-size: 14px; margin-top: 8px;">This project explores the use of underwater robots for the removal of cyanobacteria, offering insights into its potential impact on water ecosystems.</p>
+    <p style="font-size: 14px; margin-top: 8px;">A novel transformer model based on a geospatial attention mechanism</p>
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 35%; height: 35%; margin-right: 25px;"/>
+  <div style="display: flex; flex-direction: column;">
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC" style="font-size: 17px; text-decoration: none;">GeoTransformer:Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
+    <p style="font-size: 14px; margin-top: 8px;">A novel transformer model based on a geospatial attention mechanism</p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center;">
-  <img src="images/geotransformer.png" alt="GeoTransformer" style="width: 30%; height: 30%;"/>
+  <img src="images/sst.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
   <div style="display: flex; flex-direction: column;">
-  <a href="[your_link_url](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC)" style="font-size: 24px; margin-left: 20px; text-decoration: none;">GeoTransformer:Enhancing Urban Forecasting with Geospatial Attention Mechanisms</a>
-  <p style="margin-left: 20px; font-size: 16px;">A novel transformer model based on a geospatial attention mechanism</p>
- </div>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
+    <p style="font-size: 14px; margin-top: 8px;">A simplified Swin Transformer (SST) model for taxi destination presiction</p>
+  </div>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <img src="images/taxi-demands.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
+  <div style="display: flex; flex-direction: column;">
+    <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none;">Taxi Demand Distribution Platform</a>
+    <p style="font-size: 14px; margin-top: 8px;">A visualization platform showcasing New York taxi demand</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="images/NJ.png" alt="sst" style="width: 35%; height: 35%; margin-right: 25px;"/>
+  <div style="display: flex; flex-direction: column;">
+    <a href="https://miaomiao612.github.io/Train-Delay-Prediction/" style="font-size: 17px; text-decoration: none;">Train delays prediction of New Jersey Transit</a>
+    <p style="font-size: 14px; margin-top: 8px;">A visualization platform showcasing New York taxi demand</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="images/maps.jpg" alt="map" style="width: 35%; height: 35%; margin-right: 25px;"/>
+  <div style="display: flex; flex-direction: column;">
+    <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none;">Map Gallery</a>
+    <p style="font-size: 14px; margin-top: 8px;">Map is a kind of art, here collects the beautiful maps I‘ve created over these years</p>
+  </div>
+</div>
+
 
 
 # 🎖 Honors and Awards
