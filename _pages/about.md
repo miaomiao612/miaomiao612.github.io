@@ -24,7 +24,7 @@ Hello, I am currently a research assistant at the Hong Kong University of Scienc
 - *2023.05 - 2022.08* MS, Urban Spatial Analytics, University of Pennsylvania
 - *2018.08 - 2022.06* BS, Geographic Information Science, Northwest A&F University
 
-# 📝 Publications 
+# 📗 Publications 
 
 [**1.**]([Z. Wang, Y. Sun, Z. Lei, X. Zhu and P. Sun, "SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 1404-1409, doi: 10.1109/ITSC57777.2023.10422038.](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u5HHmVD_uO8C) 
 
@@ -33,10 +33,11 @@ Hello, I am currently a research assistant at the Hong Kong University of Scienc
 
 # 📝 Experience 
 - *2024.06 - now*      Research Assistant, RUI Lab, Hong Kong University of Science and Technology(GZ).
-  Advisor: Rui Cao
+  - Advisor: Rui Cao
 - *2023.05 - 2024.05*  Research Assistant, GISense Lab, University of Texas at Austin.
-  Advisor: Yuhao Kang
+  - Advisor: Yuhao Kang
 - *2022.02 - now*      Committee Member, GISphere non-profit organization
+- *2021.06 - 2021.09*  Intern, Shaanxi TIRAIN Science & Technology
 
 # 💻 Projects 
 
