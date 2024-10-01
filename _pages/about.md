@@ -56,7 +56,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/street.png" alt="街景" style="width: 350px; height: auto;"/>
-    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Enhancing Urban Planning Through generative AI-Driven Street view Modifications </a>
+    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 40px;">Enhancing Urban Planning Through generative AI-Driven Street view Modifications </a>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
@@ -76,7 +76,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/taxi-demands.png" alt="taxi demand" style="width: 370px; height: auto;"/>
-    <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none; text-align: center; ">Taxi Demand Distribution Platform</a>
+    <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none; text-align: center; margin-top:30px; ">Taxi Demand Distribution Platform</a>
   </div>
 
 </div>
