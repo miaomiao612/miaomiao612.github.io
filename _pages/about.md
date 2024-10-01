@@ -61,7 +61,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/sst.png" alt="SST" style="width: 350px; height: auto;"/>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 13px;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none; text-align: center;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
   </div>
 
 </div>
@@ -71,12 +71,12 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/house1.png" alt="houseprice" style="width: 350px; height: auto;"/>
-    <a href="https://miaomiao612.github.io/House-Price-Prediction-For-Mecklenberg/" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 13px;">House Price Prediction For Mecklenberg</a>
+    <a href="https://miaomiao612.github.io/House-Price-Prediction-For-Mecklenberg/" style="font-size: 17px; text-decoration: none; text-align: center; ">House Price Prediction For Mecklenberg</a>
 </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/taxi-demands.png" alt="taxi demand" style="width: 370px; height: auto;"/>
-    <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 30px;">Taxi Demand Distribution Platform</a>
+    <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none; text-align: center; ">Taxi Demand Distribution Platform</a>
   </div>
 
 </div>
@@ -92,7 +92,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/maps.jpg" alt="map" style="width: 300px; height: auto;"/>
-    <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 30px;">Map Gallery</a>
+    <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none; text-align: center;">Map Gallery</a>
   </div>
  </div>
 
