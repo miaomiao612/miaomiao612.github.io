@@ -1,21 +1,21 @@
 main:
    - title: "About Me"
-     url: "#About-me"
+     url: "#-about-me"
 
    - title: "Educations"
-     url: "#educations"
+     url: "#-educations"
     
    - title: "Publications"
-     url: "#publications"
+     url: "#-publications"
     
    - title: "Experiences"
-     url: "#experiences"
+     url: "#-experiences"
 
    - title: "Projects"
-     url: "#projects"
+     url: "#-projects"
 
    - title: "Honors and Awards"
-     url: "#honors-and-Awards"
+     url: "#-honors-and-awards"
 
    - title: "Presentations"
-     url: "#presentations"
+     url: "#-presentations"
