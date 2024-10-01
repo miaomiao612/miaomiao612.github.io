@@ -1,13 +1,6 @@
-# main links links
 main:
    - title: "About Me"
      url: "#About-me"
-
-#  - title: "News"
-#    url: "#-news"
-
-#  - title: "Honors and Awards"
-#    url: "/#-honors-and-awards"
 
    - title: "Educations"
      url: "#Educations"
@@ -15,9 +8,6 @@ main:
    - title: "Publications"
      url: "#Publications"
     
-#  - title: "Invited Talks"
-#    url: "/#-Invited-talks"
-
    - title: "Experiences"
      url: "#Experiences"
 
@@ -25,10 +15,7 @@ main:
      url: "#Projects"
 
    - title: "Honors and Awards"
-     url: "#Honors and Awards"
+     url: "#Honors-and-Awards"
 
    - title: "Presentations"
      url: "#Presentations"
-
-#  - title: "Miscellaneous"
-#   url: "/#-miscellaneous"
