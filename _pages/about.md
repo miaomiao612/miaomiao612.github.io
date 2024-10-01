@@ -41,7 +41,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/plot11.001.jpeg" alt="Quantifying" style="width: 300px; height: auto;"/>
+    <img src="images/plot11.001.jpeg" alt="蓝藻" style="width: 300px; height: auto;"/>
     <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
     <p style="font-size: 14px; text-align: center;">A novel transformer model based on a geospatial attention mechanism</p>
   </div>
@@ -54,13 +54,29 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
+    <img src="images/streetllm.png" alt="街景" style="width: 300px; height: auto;"/>
+    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Enhancing Urban Planning Through generative AI-Driven Street view Modifications </a>
+    <p style="font-size: 14px; text-align: center;">A tool based on Instruct Pixel2Pixel for street-view images modification</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
+    <img src="images/sst.png" alt="SST" style="width: 350px; height: auto;"/>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 13px;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
+    <p style="font-size: 14px; text-align: center;">A simplified Swin Transformer (SST) model for taxi destination prediction</p>
+  </div>
+
+</div>
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/sst.png" alt="sst" style="width: 350px; height: auto;"/>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10422038" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 13px;">SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory</a>
-    <p style="font-size: 14px; text-align: center;">A simplified Swin Transformer (SST) model for taxi destination prediction</p>
+    <img src="images/house1.png" alt="houseprice" style="width: 350px; height: auto;"/>
+    <a href="https://miaomiao612.github.io/House-Price-Prediction-For-Mecklenberg/" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 13px;">House Price Prediction For Mecklenberg</a>
+    <p style="font-size: 14px; text-align: center;">A linear regression model for house price prediction in Mecklenberg</p>
 </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
