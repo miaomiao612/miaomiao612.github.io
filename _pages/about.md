@@ -21,7 +21,7 @@ redirect_from:
 I am now a research assistant at the Hong Kong University of Science and Technology (GZ), working with Prof. Rui Cao. My research focuses on combining AI and spatial data to uncover hidden urban patterns and dynamics. More specifically, I'm interested in spatiotemporal prediction of human mobility, super-resolution reconstruction of remote sensing imagery, and the explainability of geographic artificial intelligence.  
 
 # 📖 Educations
-- *2023.05 - 2022.08* MS, Urban Spatial Analytics, University of Pennsylvania (Advisor: Elizabeth Delmelle)
+- *2022.08 - 2023.05* MS, Urban Spatial Analytics, University of Pennsylvania (Advisor: Elizabeth Delmelle)
 - *2018.08 - 2022.06* BS, Geographic Information Science, Northwest A&F University
 
 # 📗 Publications 
