@@ -99,7 +99,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 
 # 🎖 Honors and Awards
-- *2022.03*  Scholarship of Pennsylvania
+- *2022.03*  Scholarship of the University of Pennsylvania
 - *2021.11*  3rd Place, Geoscene Development Competition, Esri(China)
 - *2021.02*  2nd Place, Mapping Design Competition, Northwest A&F University
 
