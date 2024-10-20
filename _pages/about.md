@@ -96,6 +96,11 @@ I am now a research assistant at the Hong Kong University of Science and Technol
   </div>
  </div>
 
+ <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
+    <img src="images/slum.png" alt="sst" style="width: 450px; height: auto;"/>
+    <a href="https://github.com/miaomiao612/Mathare-Slum-Facilities-App" style="font-size: 17px; text-decoration: none;">Mathare Slum Facilities App</a>
+  </div>
+
 
 
 # 🎖 Honors and Awards
