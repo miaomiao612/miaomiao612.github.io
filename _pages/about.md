@@ -20,6 +20,7 @@ redirect_from:
   
 I am now a research assistant at the Hong Kong University of Science and Technology (GZ), working with Prof. Rui Cao. My research focuses on combining AI and spatial data to uncover hidden urban patterns and dynamics. More specifically, I'm interested in spatiotemporal prediction of human mobility, super-resolution reconstruction of remote sensing imagery, and the explainability of geographic artificial intelligence.  
 
+
 # 📖 Educations
 - *2022.08 - 2023.05* MS, Urban Spatial Analytics, University of Pennsylvania (Advisor: Elizabeth Delmelle)
 - *2018.08 - 2022.06* BS, Geographic Information Science, Northwest A&F University
@@ -42,7 +43,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/plot11.001.jpeg" alt="蓝藻" style="width: 300px; height: auto;"/>
-    <a href="https://drive.google.com/file/d/1W03U_qFdNaPNj8fo57FOA7paRPP3td1s/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
+    <a href="https://drive.google.com/file/d/1gQ_aGqxkZ95LfZ_4wJnhvFjFoa528qgr/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
