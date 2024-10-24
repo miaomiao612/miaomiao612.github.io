@@ -39,7 +39,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 # 📝 Experience 
 - *2024.06 - now*   &nbsp;&nbsp;   Research Assistant, Advisor: Rui Cao, Responsible Urban Intelligence(RUI) Lab, Hong Kong University of Science and Technology(GZ).
 - *2023.05 - 2024.05* &nbsp;&nbsp; Research Assistant, Advisor: Yuhao Kang, GISense Lab, University of Texas at Austin. 
-- *2022.02 - now*   &nbsp;&nbsp;   Committee Member, GISphere non-profit organization
+- *2022.02 - now*   &nbsp;&nbsp;   Committee Member, [GISphere](https://gisphere.info/) non-profit organization
 - *2021.06 - 2021.09* &nbsp;&nbsp; Intern, Shaanxi TIRAIN Science & Technology
 
 # 💻 Projects 
