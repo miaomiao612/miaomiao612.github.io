@@ -29,7 +29,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 [**1.**][Z. Wang, Y. Sun, Z. Lei, X. Zhu and P. Sun, "SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 1404-1409, doi: 10.1109/ITSC57777.2023.10422038.](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u5HHmVD_uO8C) 
 
-[**2.**][Y. Sun, Y. Kang, "Quantifying the potential of underwater robots in cyanobacteria removal",](https://drive.google.com/file/d/1e7xNQo491o2oolKZ86_llIX8Wl99DHFc/view?usp=drive_link) (under review)
+[**2.**][Y. Sun, Y. Kang, "Quantifying the potential of underwater robots in cyanobacteria removal",](https://drive.google.com/file/d/1nbHEkaJno0g-6H-PFiVlRjAaWJ3XjQeF/view?usp=drive_link) (under review)
 
 [**2.**][Y. Jia, Z. Wu, S. Yi, Y. Sun, "GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms", arXiv preprint arXiv:2404.13885](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u-x6o8ySG0sC) (under review)
 
@@ -47,7 +47,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/plot11.001.jpeg" alt="蓝藻" style="width: 300px; height: auto;"/>
-    <a href="https://drive.google.com/file/d/1e7xNQo491o2oolKZ86_llIX8Wl99DHFc/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
+    <a href="https://drive.google.com/file/d/1nbHEkaJno0g-6H-PFiVlRjAaWJ3XjQeF/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantifying the Potential of Underwater Robots in Cyanobacteria Removal</a>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
