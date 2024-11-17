@@ -74,7 +74,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px;margin-top: 20px; max-width: 50%; width: 100%;">
     <img src="images/houseprice.png" alt="houseprice" style="width: 350px; height: auto;"/>
     <a href="https://miaomiao612.github.io/House-Price-Prediction-For-Mecklenberg/" style="font-size: 17px; text-decoration: none; text-align: center; ">House Price Prediction For Mecklenberg</a>
 </div>
@@ -101,7 +101,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; margin-top: 20px;max-width: 50%; width: 100%;">
     <img src="images/maps.jpg" alt="map" style="width: 300px; height: auto;"/>
     <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none; text-align: center;">Map Gallery</a>
   </div>
