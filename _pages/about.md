@@ -85,7 +85,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
   </div>
 
 </div>
-
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
@@ -93,8 +93,8 @@ I am now a research assistant at the Hong Kong University of Science and Technol
     <a href="https://miaomiao612.github.io/Train-Delay-Prediction/" style="font-size: 17px; text-decoration: none;">Train delays prediction of New Jersey Transit</a>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/gwr.001.jpeg" alt="map" style="width: 410px; height: auto;"/>
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px;margin-top: 10px; max-width: 50%; width: 100%;">
+    <img src="images/gwr.001.jpeg" alt="map" style="width: 430px; height: auto;"/>
     <a href="https://drive.google.com/file/d/1al77rOsBkfyoyjtQJxcZrPtF_1uM-gFq/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center;">Using Spatial Lag, Spatial Error and Geographically Weighted Regression to Predict </a>
   </div>
  </div>
