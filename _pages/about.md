@@ -84,6 +84,8 @@ I am now a research assistant at the Hong Kong University of Science and Technol
     <a href="https://miaomiao612.github.io/taxi-demands-prediction-app/show.html" style="font-size: 17px; text-decoration: none; text-align: center;  ">Taxi Demand Distribution Platform</a>
   </div>
 
+</div>
+
 
   
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
