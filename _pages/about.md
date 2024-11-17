@@ -96,6 +96,12 @@ I am now a research assistant at the Hong Kong University of Science and Technol
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
+    <img src="images/gwr.001.jepg" alt="map" style="width: 300px; height: auto;"/>
+    <a href="https://drive.google.com/file/d/1al77rOsBkfyoyjtQJxcZrPtF_1uM-gFq/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center;">Using Spatial Lag, Spatial Error and Geographically Weighted Regression to Predict </a>
+  </div>
+ </div>
+ 
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
     <img src="images/maps.jpg" alt="map" style="width: 300px; height: auto;"/>
     <a href="https://storymaps.arcgis.com/collections/0431acc382bd49b6b72eea3f6834936e" style="font-size: 17px; text-decoration: none; text-align: center;">Map Gallery</a>
   </div>
