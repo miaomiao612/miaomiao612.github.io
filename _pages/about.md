@@ -95,7 +95,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px;margin-top: 20px; max-width: 50%; width: 100%;">
     <img src="images/gwr.001.jpeg" alt="map" style="width: 430px; height: auto;"/>
-    <a href="https://drive.google.com/file/d/1al77rOsBkfyoyjtQJxcZrPtF_1uM-gFq/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center;">Using Spatial Lag, Spatial Error and Geographically Weighted Regression to Predict </a>
+    <a href="https://drive.google.com/file/d/1al77rOsBkfyoyjtQJxcZrPtF_1uM-gFq/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center;">Using Spatial Lag, Spatial Error and Geographically Weighted Regression to Predict Median House Values in Philadelphia Block Groups </a>
   </div>
   
 </div>
