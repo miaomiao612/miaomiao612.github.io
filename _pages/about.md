@@ -27,7 +27,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 
 # 📗 Publications 
 
-[**1.**][Z. Wang, Y. Sun, Z. Lei, X. Zhu and P. Sun, "SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 1404-1409, doi: 10.1109/ITSC57777.2023.10422038.](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u5HHmVD_uO8C) 
+[**1.**][Z. Wang, Y. Sun, Z. Lei, X. Zhu and P. Sun, "SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory,"](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J49kATMAAAAJ&citation_for_view=J49kATMAAAAJ:u5HHmVD_uO8C)2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 1404-1409, doi: 10.1109/ITSC57777.2023.10422038  
 
 [**2.**][Y. Sun, W. Peng, Q. Zheng, Y. Kang, "Quantitative assessment of underwater robots in harmful algae control: Unveiling effectiveness and uncertainty",](https://drive.google.com/file/d/1mkW2pnduhB39dy2LnSkFUp5QkhwqeW2h/view?usp=drive_link)Big Earth Data (under review)
 
