@@ -46,7 +46,7 @@ I am now a research assistant at the Hong Kong University of Science and Technol
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px; max-width: 50%; width: 100%;">
-    <img src="images/workflow.jpeg" alt="蓝藻" style="width: 300px; height: auto;margin-top: 40px"/>
+    <img src="images/Screenshot 2025-03-04 at 5.30.10 PM.png" alt="蓝藻" style="width: 300px; height: auto;margin-top: 40px"/>
     <a href="https://drive.google.com/file/d/1B0K0Re4v5OSm-dsWT3ZBMPAAmukjCiaT/view?usp=drive_link" style="font-size: 17px; text-decoration: none; text-align: center; margin-top: 10px;">Quantitative Assessment of Autonomous Boats in Harmful Algae Control: Unveiling Effectiveness and Uncertainty</a>
   </div>
 
